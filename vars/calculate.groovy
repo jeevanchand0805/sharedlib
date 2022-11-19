@@ -1,3 +1,3 @@
 def add(x,y){
-  echo ${x+y}
+  echo "${x+y}"
 }
